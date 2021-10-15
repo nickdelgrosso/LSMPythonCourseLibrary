@@ -24,3 +24,4 @@ def is_DNA(seq):
 import doctest
 
 doctest.testmod(verbose = True)
+
