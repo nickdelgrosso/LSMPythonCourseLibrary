@@ -21,7 +21,6 @@ def is_DNA(seq):
     else:
         return 'not sure'
 
-
 import doctest
 
 doctest.testmod(verbose = True)
